@@ -1,0 +1,55 @@
+{
+    "cards": [
+    {
+        "src": "./img/cross.jpeg",
+        "discount": "-56",
+        "name": "",
+        "price": "11 846 KZT",
+        "star": "./icons/star.svg",
+        "descr": "Женская модная обувь Fplatform Laides Дышащие лоферы Повседневная спортивная обувь Обувь для ходьбы Обувь для йоги"
+    },
+    {
+        "src": "./img/cross.jpeg",
+        "discount": "-56",
+        "name": "",
+        "price": "11 846 KZT",
+        "star": "./icons/star.svg",
+        "descr": "Женская модная обувь Fplatform Laides Дышащие лоферы Повседневная спортивная обувь Обувь для ходьбы Обувь для йоги"
+    },
+    {
+        "src": "./img/cross.jpeg",
+        "discount": "-56",
+        "name": "TUINANLE",
+        "price": "11 846 KZT",
+        "star": "./icons/star.svg",
+        "descr": "Женская модная обувь Fplatform Laides Дышащие лоферы Повседневная спортивная обувь Обувь для ходьбы Обувь для йоги"
+    },
+    {
+        "src": "./img/cross.jpeg",
+        "discount": "-56",
+        "name": "AIRAVATA",
+        "price": "11 846 KZT",
+        "star": "./icons/star.svg",
+        "descr": "Женская модная обувь Fplatform Laides Дышащие лоферы Повседневная спортивная обувь Обувь для ходьбы Обувь для йоги"
+    },
+    {
+        "src": "./img/cross.jpeg",
+        "discount": "-56",
+        "name": "",
+        "price": "11 846 KZT",
+        "star": "./icons/star.svg",
+        "descr": "Женская модная обувь Fplatform Laides Дышащие лоферы Повседневная спортивная обувь Обувь для ходьбы Обувь для йоги"
+    },
+    {
+        "src": "./img/cross.jpeg",
+        "discount": "-56",
+        "name": "TUINANLE",
+        "price": "11 846 KZT",
+        "star": "./icons/star.svg",
+        "descr": "Женская модная обувь Fplatform Laides Дышащие лоферы Повседневная спортивная обувь Обувь для ходьбы Обувь для йоги"
+    }
+
+    
+
+    ]
+}
